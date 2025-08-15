@@ -31,7 +31,7 @@ while character_selection ==0:
         character = elf
         my_hp = elf_hp
         my_damage = elf_damage
-        character_chosen = 1
+        character_selection = 1
     elif character_selection == "3":
         character = human
         my_hp = human_hp
